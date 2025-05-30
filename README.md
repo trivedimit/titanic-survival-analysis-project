@@ -32,7 +32,7 @@ This project dives into the famous Titanic dataset to explore patterns in passen
 
 ---
 
-<pre> ## 📁 Project Structure ``` titanic-data-analysis/ ├── data/ # Contains the dataset files │ └── cleaned_titanic.csv # Final preprocessed dataset │ ├── notebooks/ # Jupyter notebooks for each analysis phase │ ├── 01_data_loading_and_exploration.ipynb │ ├── 02_data_cleaning_and_feature_engineering.ipynb │ └── 03_visual_analysis.ipynb │ ├── visuals/ # Generated plots and visualizations │ ├── survival_by_gender.png │ ├── fare_by_class.png │ └── feature_distribution.png │ ├── README.md # Project overview and documentation └── requirements.txt # List of required Python packages ``` </pre>
+## 📁 Project Structure ``` titanic-data-analysis/ ├── data/ │ └── cleaned_titanic.csv # Final preprocessed dataset │ ├── notebooks/ │ ├── 01_data_loading_and_exploration.ipynb │ ├── 02_data_cleaning_and_feature_engineering.ipynb │ └── 03_visual_analysis.ipynb │ ├── visuals/ │ ├── survival_by_gender.png │ ├── fare_by_class.png │ └── feature_distribution.png │ ├── README.md # Project overview and documentation └── requirements.txt # List of required Python packages ``` 
 
 ---
 
